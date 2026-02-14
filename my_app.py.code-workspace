@@ -1,0 +1,20 @@
+{
+    "folders": [
+		{
+			"name": " ",
+			"path": "../../../../.vscode/extensions/algoritmika.algopython-20251111.203400.0/temp"
+		},
+		{
+			"name": "Desktop application project",
+			"path": "../../../../.vscode/extensions/algoritmika.algopython-20251111.203400.0/data/student/100235436/969775"
+		}
+	],
+    "settings": {
+        "breadcrumbs.enabled": false,
+        "files.hotExit": "on",
+        "window.restoreWindows": "none",
+        "workbench.editor.tabCloseButton": "off",
+        "algopython.host": "learn.algonova.id",
+        "workbench.editor.tabActionCloseVisibility": false
+    }
+}
